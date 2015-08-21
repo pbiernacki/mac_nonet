@@ -1,5 +1,5 @@
 # mac_nonet
-Disable access to networking for cerain group
+Disable access to networking for certain group
 
 To test, clone the repo and run `make && make load` in the module directory.  The load action require root permissions.
 
